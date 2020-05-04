@@ -13,7 +13,7 @@ def link
   puts message
 end
 
-def all_phrase(mario, toadstool, link)
+def all_phrase
   mario
   toadstool
   link

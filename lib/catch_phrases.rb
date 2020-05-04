@@ -1,7 +1,6 @@
 def mario
   phrase = "It's-a me, Mario!"
   puts phrase
-  phrase
 end
 
 def toadstool
@@ -12,7 +11,6 @@ end
 def link
   message = "It's Dangerous To Go Alone! Take This."
   puts message
-  message
 end
 
 def all_phrase(mario, toadstool, link)
